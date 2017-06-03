@@ -1,0 +1,13 @@
+{
+  "name": "jest-lerna-create-react-app-issue",
+  "version": "1.0.0",
+  "description": "example repo to test and describe the issue",
+  "main": "index.js",
+  "repository": "x",
+  "author": "Schubidu",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^20.0.4",
+    "lerna": "^2.0.0-rc.5"
+  }
+}
